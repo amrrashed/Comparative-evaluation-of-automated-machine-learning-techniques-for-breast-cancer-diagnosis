@@ -1,12 +1,20 @@
-# breast-cancer-datasets-and-codes
+#Comparative evaluation of automated machine learning techniques for 
+breast cancer diagnosis
 
-This repository contains the code and datasets used in various studies.
-Each dataset has a designated folder labeled from DB1 to DB8, which includes the source files and codes. 
-However, the enhanced versions of the codes are not included in the repository.
-The references related to breast cancer diagnosis using ML techniques can be found in the ref folder. 
-Additionally, the video URL for the description of all ML techniques is included in the video url.txt file.
-For further information, please refer to the following repository:
-https://github.com/amrrashed/TEST-AUTOML-LIBRARY-IN-PYTHON
+If you benefit from this repository, please cite this paper
+
+Amr E. Eldin Rashed, Ashraf M. Elmorsy, Ahmed E. Mansour Atwa,
+Comparative evaluation of automated machine learning techniques for breast cancer diagnosis,
+Biomedical Signal Processing and Control, Volume 86, Part A, 2023, 105016, ISSN 1746-8094,
+https://doi.org/10.1016/j.bspc.2023.105016.
+(https://www.sciencedirect.com/science/article/pii/S1746809423004494)
+
+
+Abstract: 
+
+Breast cancer is the second leading cause of death among women worldwide. Early detection is crucial for a high possibility of recovery, but current diagnostic procedures rely on visual inspection by doctors, which is time-consuming, requires consultation, and lacks reliable automatic detection systems. Therefore, an automatic diagnosis system based on machine learning (ML) models is highly required to improve the accuracy of detection and prediction. In this study, an efficient classification method based on ML techniques was proposed to help doctors diagnose and distinguish between malignant and benign tumors relevant to breast cancer prediction. Seven AutoML techniques, including Orange, Lazy Predict, TPOT, MLJAR, MATLAB classification learner, and AutoKeras, were examined and applied to eight different datasets to evaluate their performance in terms of classification accuracy. The experimental results demonstrate a significant improvement using state-of-the-art techniques, with Lazy Predict and MATLAB Classification Learner outperforming all other ML techniques for binary classification tasks. The contribution of this work is the identification of the best ML model among multiple models inside each AutoML technique applied to different breast cancer datasets. All datasets and codes used in this study are freely available from https://github.com/amrrashed/breast-cancer-datasets-and-codes.
+Keywords: Breast cancer diagnosis; Machine learning; AutoML techniques; Lazy Predict; MATLAB Classification Learner
+
 
 #LINKS for youtube videos
 link for auto ML using python playlist
